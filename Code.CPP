@@ -7,6 +7,7 @@ int main()
 
 int Choice,order,password;
 double total;
+ //where this str variable was used ?
 char str[100];
 do{
   cout << "product List:"<< endl;
@@ -136,7 +137,7 @@ do{
   cout<<"sub total is:"<<total;
 
  }
-
+//6- ?
        }while ( Choice !=6-);
          return 0;
 
